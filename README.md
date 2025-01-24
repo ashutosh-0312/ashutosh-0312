@@ -33,15 +33,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ashutosh-0312/ashutosh-0312/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ashutosh-0312/count.svg?"  />
-</div>
-
-###
